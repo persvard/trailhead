@@ -49,11 +49,11 @@
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1510139355000,
-            "changeTime": 1510139355000,
+            "size": 204,
+            "modifiedTime": 1510138559000,
+            "changeTime": 1510138559000,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -272,7 +272,7 @@
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation",
             "isDirectory": true,
             "size": 306,
-            "modifiedTime": 1510139331000,
+            "modifiedTime": 1510130892000,
             "changeTime": 1510130892000,
             "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
             "isMetadataFile": false,
@@ -297,14 +297,14 @@
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 162,
             "modifiedTime": 1510139216000,
             "changeTime": 1510139216000,
-            "contentHash": "36090c54f74726d5cf4daf9c23a1ca970172ab5d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "36090c54f74726d5cf4daf9c23a1ca970172ab5d"
         }
     ],
     [
@@ -492,14 +492,14 @@
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1510137742000,
+            "changeTime": 1510137742000,
+            "contentHash": "c2dc7a938e47ae3493a6d66745eb81700db1ba43",
             "isMetadataFile": false,
-            "size": 563,
-            "modifiedTime": 1510139971000,
-            "changeTime": 1510139971000,
-            "contentHash": "79ad384cb90e75f4258b01a451fab06ee76988cc"
+            "state": "u"
         }
     ],
     [
@@ -531,14 +531,14 @@
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 257,
+            "modifiedTime": 1510138065000,
+            "changeTime": 1510138065000,
+            "contentHash": "bb5ea35b79a251f4367e9a0122abca02ca5f0a17",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1510139991000,
-            "changeTime": 1510139991000,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -830,14 +830,14 @@
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1510138559000,
             "changeTime": 1510138559000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -847,36 +847,36 @@
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 337,
-            "modifiedTime": 1510140016000,
-            "changeTime": 1510140016000,
-            "contentHash": "b1526369bb0c01a6ec226cb0c1818e349897d3d0"
+            "size": 268,
+            "modifiedTime": 1510138757000,
+            "changeTime": 1510138757000,
+            "contentHash": "05937976168a921a7c888d147f0ff66f31e14e14"
         }
     ],
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1510138559000,
             "changeTime": 1510138559000,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
         }
     ],
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510139190000,
             "changeTime": 1510139190000,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
         }
     ],
     [
@@ -886,75 +886,36 @@
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1510140041000,
-            "changeTime": 1510140041000,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 389,
+            "modifiedTime": 1510139175000,
+            "changeTime": 1510139175000,
+            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa"
         }
     ],
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510138559000,
             "changeTime": 1510138559000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1510138559000,
             "changeTime": 1510138559000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1510139355000,
-            "changeTime": 1510139355000,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1510139887000,
-            "changeTime": 1510139887000,
-            "contentHash": "bad5e54855df741d941e7b482fa2ade6625d8504"
-        }
-    ],
-    [
-        "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/per.svard/Documents/SFDC+Zuora/workspace/trailhead/Geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1510139355000,
-            "changeTime": 1510139355000,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
